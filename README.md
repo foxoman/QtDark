@@ -1,0 +1,2 @@
+# QtDark
+QtCreator Dark theme
